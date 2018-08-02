@@ -1,0 +1,27 @@
+body{
+ 					background-image: url('back.jpg');
+ 					font-family: "Roboto" , sans-serif;
+ 				}
+ 				.wrapper{
+ 					max-width: 50%;
+ 					margin: auto;
+ 					text-align: center;
+ 					padding: 50px 54px;
+ 					background-color: #fff;
+
+ 				}
+
+ 				.todo-list{
+
+ 					background-color: #b0e0e6;
+ 					width: 90%;
+ 					
+ 					padding:30px; 
+ 					align-content: center;
+ 				}
+ 				table, th, td{
+ 					border:2px solid black;
+ 					padding: 30px;
+ 					border-collapse: collapse;
+
+ 				}
